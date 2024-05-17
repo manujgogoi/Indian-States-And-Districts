@@ -46,4 +46,4 @@ Contributions to this repository are welcome! If you have any updates, correctio
 
 ## License
 
-This repository is licensed under the MIT License, which means you are free to use, modify, and distribute the data as long as you include the appropriate attribution and disclaimer.
+This repository is licensed under the [MIT License](/LICENSE), which means you are free to use, modify, and distribute the data as long as you include the appropriate attribution and disclaimer.
